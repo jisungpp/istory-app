@@ -1,0 +1,7 @@
+**/.terraform
+**/.terraform.lock.hcl
+**/*.tfstate
+**/*.ftstate.backup
+**/*.sh
+
+# 이 위치에 있는 모든 파일
